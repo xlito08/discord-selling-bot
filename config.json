@@ -1,0 +1,15 @@
+{
+    "bot_token": "",
+    "required_role_id": 1325824870826905691,
+    "restore_allowed_users": [
+        1190010040720052277, 
+        850363209134899250
+    ],
+    "allowed_channel_id": 1325829743077101568,
+    "embed_required_role_id": 1325824644439347260,
+    "customer_role_id": 1325824870826905691,
+    "create_embed_allowed_users": [
+        "1190010040720052277", 
+        "850363209134899250"
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "spotify-premium": {
+        "title": "Spotify Premium",
+        "description": "Spotify Premium 1M - 1€\nSpotify Premium LFT - 2€\nSpotify Premium Family Owner LFT - 4.50€",
+        "details": "Fast Delivery!\nLegit Account\nEasy reselling\n⁠<#1325829226133459007>",
+        "banner": "https://cdn.discordapp.com/attachments/1325881967174226064/1338219821967347794/yt.png?ex=67aa49d4&is=67a8f854&hm=33855e3a7abcd2b7fa1a2f58e5c3559d7d43271c1022f6732f63669ba55593b4&"
+    },
+    "netflix": {
+        "title": "Netflix",
+        "description": "Netflix 1M - 0.45€\nNetflix 3M - 0.75€\nNetflix 6M - 1.00€\nNetflix LFT Full Acces - 5.00€",
+        "details": "Fast Delivery!\nLegit Account\nEasy reselling\n⁠<#1325829226133459007>",
+        "banner": "https://cdn.discordapp.com/attachments/1325881967174226064/1338219785158135848/Netflix.png?ex=67aa49cb&is=67a8f84b&hm=632443a8a8d850785ede26864b30eeec354b82dce6110f0f89a070ee1e514b6d&"
+    },
+    "prime-video": {
+        "title": "Prime Video",
+        "description": "Prime Video 6 Months - 1.50€\n\nBuy 3 accounts = 1.40€ per account\nBuy 5 accounts = 1.30€ per account\n\nFull Acces Accounts (email and password changebel)",
+        "details": "Fast Delivery!\nLegit Account\nEasy reselling\n⁠<#1325829226133459007>",
+        "banner": "https://cdn.discordapp.com/attachments/1325881967174226064/1338219786953560196/Primevideo.png?ex=67aa49cc&is=67a8f84c&hm=11cfb8f9e2744de8e38dc983d43006da84c3e351f238ac311ed4806dd8b24c52&"
+    },
+    "crunchyroll": {
+        "title": "Crunchyroll",
+        "description": "Crunchyroll Premium Lifetime - 1€\n\nBuy 3 accounts = 0.80€ per account\nBuy 5 accounts = 0.60€ per account\n\nEnjoy over 1,3000 Animes with Crunchyroll Premium",
+        "details": "Fast Delivery!\nLegit Account\nEasy reselling\n⁠<#1325829226133459007>",
+        "banner": "https://cdn.discordapp.com/attachments/1325881967174226064/1338219802078220419/Crunchyroll.png?ex=67aa49cf&is=67a8f84f&hm=c26197ec60d5d28720dfcc7ea037090fce0d05b09e2cf5df99c4c24da97f2e13&"
+    },
+    "disney+": {
+        "title": "Disney+",
+        "description": "",
+        "details": "",
+        "banner": ""
+    },
+    "youtube-premium": {
+        "title": "Youtube Premium",
+        "description": "YouTube Premium 1M - 2€\nYouTube Premium 3M - 3.50€",
+        "details": "Fast Delivery!\nLegit Account\nEasy reselling\n⁠<#1325829226133459007>",
+        "banner": "https://cdn.discordapp.com/attachments/1325881967174226064/1338219821967347794/yt.png?ex=67aa49d4&is=67a8f854&hm=33855e3a7abcd2b7fa1a2f58e5c3559d7d43271c1022f6732f63669ba55593b4&"
+    },
+    "minecraft": {
+        "title": "Minecraft",
+        "description": "Minecraft Java & Bedrock Edition - 6€",
+        "details": "Fast Delivery!\nLegit Account\nEasy reselling\n⁠<#1325829226133459007>",
+        "banner": "https://cdn.discordapp.com/attachments/1325881967174226064/1338219784029864168/mc.png?ex=67aa49cb&is=67a8f84b&hm=d01717f786c17ab0da6aea38f72f75a135ab0637738c66a978b699d4fd3d3c73&"
+    },
+    "social-panel": {
+        "title": "Social Panel",
+        "description": "",
+        "details": "",
+        "banner": ""
+    },
+    "exchange": {
+        "title": "Exchange",
+        "description": "",
+        "details": "",
+        "banner": ""
+    }
+}
