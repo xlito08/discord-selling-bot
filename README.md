@@ -15,7 +15,7 @@ This Discord bot provides various functionalities for managing vouches, creating
 ### 1️⃣ **Clone the Repository**
 ```sh
 git clone https://github.com/xlito08/discord-selling-bot.git
-cd [your-repo](https://github.com/xlito08/discord-selling-bot.git)
+cd https://github.com/xlito08/discord-selling-bot.git
 ```
 
 ### 2️⃣ **Install Dependencies**
